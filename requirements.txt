@@ -1,0 +1,11 @@
+pypdf==4.3.1
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-google-genai==1.0.10
+langchain-text-splitters==0.2.4
+google-generativeai==0.7.2
+chromadb==0.5.5
+streamlit==1.38.0
+python-dotenv==1.0.1
+faker==28.4.1
